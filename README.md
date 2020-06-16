@@ -26,6 +26,8 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 
 - [How To Install Docker Client on Jenkins](https://tutorials.releaseworksacademy.com/learn/the-simple-way-to-run-docker-in-docker-for-ci)
 
+- [How To Setup Docker Build Agents for Jenkins](https://devopscube.com/docker-containers-as-build-slaves-jenkins/)
+
 ## External Resources
 
 - [Edureka](https://www.edureka.co/community/55640/jenkins-docker-docker-image-jenkins-pipeline-docker-registry)
