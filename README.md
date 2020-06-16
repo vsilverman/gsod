@@ -22,6 +22,10 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 
 - [socat Solution](https://github.com/jenkins-infra/jenkins.io/pull/3328)
 
+## Tutorials
+
+- [How To Install Docker Client on Jenkins](https://tutorials.releaseworksacademy.com/learn/the-simple-way-to-run-docker-in-docker-for-ci)
+
 ## External Resources
 
 - [Edureka](https://www.edureka.co/community/55640/jenkins-docker-docker-image-jenkins-pipeline-docker-registry)
