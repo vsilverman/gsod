@@ -35,3 +35,5 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 ## Possible issues
 
 - [Jenkins inside Docker](https://blog.nestybox.com/2019/09/29/jenkins.html#problems-with-jenkins-inside-a-container)
+
+- [Docker inside Docker](http://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/)
