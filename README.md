@@ -14,6 +14,8 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 
 - [Official Jenkins Docker image](https://github.com/jenkinsci/docker/)
 
+- [Documentation Changes](https://github.com/jenkins-infra/jenkins.io/issues/3315)
+
 - [Plugin Installation](https://github.com/jenkinsci/plugin-installation-manager-tool/issues/101)
 
 - [Demo Jenkins Config](https://github.com/vsilverman/demo-jenkins-config-as-code)
@@ -32,7 +34,7 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 
 - [Edureka](https://www.edureka.co/community/55640/jenkins-docker-docker-image-jenkins-pipeline-docker-registry)
 
-## Possible issues
+## Discussion of Issues
 
 - [Jenkins inside Docker](https://blog.nestybox.com/2019/09/29/jenkins.html#problems-with-jenkins-inside-a-container)
 
