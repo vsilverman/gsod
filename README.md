@@ -31,3 +31,7 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 ## External Resources
 
 - [Edureka](https://www.edureka.co/community/55640/jenkins-docker-docker-image-jenkins-pipeline-docker-registry)
+
+## Possible issues
+
+- [Jenkins inside Docker](https://blog.nestybox.com/2019/09/29/jenkins.html#problems-with-jenkins-inside-a-container)
