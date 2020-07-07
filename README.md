@@ -55,3 +55,9 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 - [Deepak Vohra](https://docs.google.com/document/d/1Uu9EfhwhccHY7j032Xv9kukOGKefRSqiA5_afsrVOZs/edit?usp=sharing)
 
 - [Vivek Sonar](https://docs.google.com/document/d/1Vrp1mcB0QQUtYSXQaj463LotLN3TahT_5YhMn6DwZcM/edit?usp=sharing)
+
+## Links to Jenkins Docs
+
+- [Jenkins Docs SIG](https://www.jenkins.io/sigs/docs)
+
+- [Jenkins Docs Office Hours](https://docs.google.com/document/d/1ygRZnVtoIvuEKpwNeF_oVRVCV5NKcZD1_HMtWlUZguo/edit?usp=sharing)
