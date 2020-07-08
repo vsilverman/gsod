@@ -16,6 +16,8 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 
 - [Documentation Changes](https://github.com/jenkins-infra/jenkins.io/issues/3315)
 
+- [Jenkins and Docker Solutions](https://github.com/jenkins-infra/jenkins.io/pull/3361)
+
 - [Plugin Installation](https://github.com/jenkinsci/plugin-installation-manager-tool/issues/101)
 
 - [Demo Jenkins Config](https://github.com/vsilverman/demo-jenkins-config-as-code)
