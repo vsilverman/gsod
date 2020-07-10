@@ -44,6 +44,8 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 
 - [Docker inside Privileged Docker](https://blog.trendmicro.com/trendlabs-security-intelligence/why-running-a-privileged-container-in-docker-is-a-bad-idea/)
 
+- [Docker login issue](https://devops.stackexchange.com/questions/11981/jenkins-docker-login-doesnt-seem-to-persist-docker-pull-wont-work-but-docke)
+
 ## Jenkins Application/Proposals Docs for GSoD
 
 - [Jhonatan Morais](https://docs.google.com/document/d/1w2fcX333mOgAAT9zGsINkCR69eyl_pOrJEIuqWC5KxE/edit?usp=sharing)
