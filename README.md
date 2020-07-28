@@ -36,7 +36,7 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 
 - [How To Run Jenkins Ofiicial Docker Image](https://batmat.net/2018/09/07/how-to-run-and-upgrade-jenkins-using-the-official-docker-image/)
 
-- [New Linux Repository Signing Keys](https://www.jenkins.io/blog/2020/07/27/repository-signing-keys-changing/)
+- [Do not disable the Groovy Sandbox](https://brokenco.de/2017/08/03/donut-disable-groovy-sandbox.html)
 
 ## External Resources
 
