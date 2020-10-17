@@ -46,6 +46,8 @@ This repo shows a list of resources, required to complete a GSoD-2020 applicatio
 
 - [Jenkins inside Docker](https://blog.nestybox.com/2019/09/29/jenkins.html#problems-with-jenkins-inside-a-container)
 
+- [Jenkins and Docker in Docker](https://medium.com/swlh/quickstart-ci-with-jenkins-and-docker-in-docker-c3f7174ee9ff)
+
 - [Docker inside Docker](http://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/)
 
 - [Docker inside Privileged Docker](https://blog.trendmicro.com/trendlabs-security-intelligence/why-running-a-privileged-container-in-docker-is-a-bad-idea/)
